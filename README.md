@@ -1,12 +1,9 @@
 # eslint-config-semistandard-4i
 
 [![npm][npm-image]][npm-url]
-[![travis][travis-image]][travis-url]
 
 [npm-image]: https://img.shields.io/npm/v/eslint-config-semistandard-4i.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/eslint-config-semistandard-4i
-[travis-image]: https://img.shields.io/travis/Flet/eslint-config-semistandard-4i.svg?style=flat-square
-[travis-url]: https://travis-ci.org/Flet/eslint-config-semistandard-4i
 
 eslint sharable config for semistandard
 
