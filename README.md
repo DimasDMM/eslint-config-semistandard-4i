@@ -23,7 +23,23 @@ npm install eslint-config-semistandard-4i
 
 Read up on how to use [sharable configs](http://eslint.org/docs/developer-guide/shareable-configs) at the eslint website.
 
+In short, add this to your .eslintrc file:
+
+```json
+{
+  "extends": "standard"
+}
+```
+
 For more details see [eslint-config-standard](https://github.com/feross/eslint-config-standard)
+
+## Rules
+
+Importantly:
+
+- **semicolons**
+- **4 spaces indentation**
+- Check [JS Standard Style](https://github.com/standard/standard) for the rest of the rules.
 
 ## License
 
