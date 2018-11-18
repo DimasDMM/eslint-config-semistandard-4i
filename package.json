@@ -1,8 +1,8 @@
 {
-  "name": "eslint-config-semistandard",
-  "description": "eslint sharable config for semistandard",
-  "version": "13.0.0",
-  "author": "Dan Flettre <flettre@gmail.com",
+  "name": "eslint-config-semistandard-4i",
+  "description": "eslint sharable config for semistandard-4i",
+  "version": "1.0.0",
+  "author": "Dimas Muñoz <dimas.95@hotmail.com",
   "bugs": {
     "url": "https://github.com/Flet/eslint-config-semistandard/issues"
   },
@@ -18,9 +18,9 @@
     "tap-spec": "^5.0.0",
     "tape": "^4.9.1"
   },
-  "homepage": "https://github.com/Flet/eslint-config-semistandard",
+  "homepage": "https://github.com/DimasDMM/eslint-config-semistandard-4i",
   "keywords": [
-    "semistandard",
+    "semistandard-4i",
     "style checker",
     "code style",
     "code checker",
@@ -42,8 +42,8 @@
     "quality",
     "checker",
     "code standards",
-    "JavaScript Semistandard Style",
-    "semistandard style",
+    "JavaScript Semistandard 4I Style",
+    "semistandard-4i style",
     "eslintconfig"
   ],
   "license": "ISC",
@@ -58,7 +58,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Flet/eslint-config-semistandard.git"
+    "url": "https://github.com/DimasDMM/eslint-config-semistandard-4i.git"
   },
   "scripts": {
     "test": "standard && tape test/*.js | tap-spec"
