@@ -20,14 +20,6 @@ npm install eslint-config-semistandard-4i
 
 Read up on how to use [sharable configs](http://eslint.org/docs/developer-guide/shareable-configs) at the eslint website.
 
-In short, add this to your `.eslintrc` file:
-
-```json
-{
-  "extends": "semistandard-4i"
-}
-```
-
 For more details see [eslint-config-standard](https://github.com/feross/eslint-config-standard)
 
 ## Rules
