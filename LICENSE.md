@@ -1,5 +1,5 @@
-Copyright (c) 2015, Dan Flettre <fletd01@yahoo.com>
-              2018, Dimas Muñoz <dimas.95@hotmail.com>
+Copyright (c) 2015 Dan Flettre <fletd01@yahoo.com>,
+              2018 Dimas Muñoz <dimas.95@hotmail.com>
 
 Permission to use, copy, modify, and/or distribute this software for any purpose with or without fee is hereby granted, provided that the above copyright notice and this permission notice appear in all copies.
 
